@@ -28,10 +28,10 @@ header{
 }
 
 .bg-primary-2{
-    background: orangered;
+    background: #ff4500;
 }
 .btn-primary-2{
-    background: orangered;
+    background: #ff4500;
     color: #fff;
 }
 .color-primary-2{
@@ -40,9 +40,15 @@ header{
 .color-secondary-2{
     color: rgb(11, 218, 211);
 }
+.navbar{
+    background-color: #ff4500 !important;
+}
 .navbar-dark .navbar-nav .nav-link {
-    color: rgb(248, 248, 248);
+    color: #f8f8f8;
     font-weight: 500;
+}
+a{
+    color: #f8f8f8 !important;  
 }
 .overlay-text{
     padding-left: 50px;
